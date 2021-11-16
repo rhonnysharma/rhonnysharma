@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avhishek Gupta</h1>
 <h3 align="center">A Boy trying to Figure out Stuff!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhonnysharma" alt="rhonnysharma" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/abhishe74207143" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe74207143?logo=twitter&style=for-the-badge" alt="abhishe74207143" /></a> </p>
 
 - 🔭 I’m currently working on **VAPT**
 
@@ -39,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhonnysharma&show_icons=true&locale=en" alt="rhonnysharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhonnysharma&" alt="rhonnysharma" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhonnysharma" alt="rhonnysharma" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/abhishe74207143" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe74207143?logo=twitter&style=for-the-badge" alt="abhishe74207143" /></a> </p>
