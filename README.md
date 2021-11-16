@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://forum.shellcrew.org/profile/47-abhishek-gupta/](https://forum.shellcrew.org/profile/47-abhishek-gupta/)
 
-- 💬 Ask me about **Sharing is Caring, You can contect me anytime**
+- 💬 Ask me about **Sharing is Caring, You can reach me anytime**
 
 - 📫 How to reach me **darks6154@gmail.com**
 
