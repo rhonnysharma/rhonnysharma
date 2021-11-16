@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Web Pentesting, Api Pentesting, Also other domains**
 
-- 👯 I’m looking to collaborate on **Kunal Sir**
 
 - 🤝 I’m looking for help with **CyberSec Learning**
 
