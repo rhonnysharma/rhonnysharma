@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://forum.shellcrew.org/profile/47-abhishek-gupta/](https://forum.shellcrew.org/profile/47-abhishek-gupta/)
 
-- 💬 Ask me about **Sharing is Caring, You can reach me anytime**
+- 💬 Ask me about **Ethical Hacking - Web Pentesting - Bug Bounty - Api Pentesting - Cloud - Frontend Development **
 
 - 📫 How to reach me **darks6154@gmail.com**
 
